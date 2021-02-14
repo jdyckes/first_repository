@@ -1,1 +1,1 @@
-# test project to learn GitHub functions
+test project to learn GitHub functions
